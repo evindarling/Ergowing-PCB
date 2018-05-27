@@ -390,7 +390,7 @@ F 3 "" H 4700 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Sheet
-S 6400 2750 2000 600 
+S 2550 5350 2000 600 
 U 5B0ABEA4
 F0 "matrix" 60
 F1 "matrix.sch" 60
@@ -577,4 +577,5 @@ NoConn ~ 2450 4450
 NoConn ~ 2450 4550
 NoConn ~ 2450 4650
 NoConn ~ 2450 4750
+NoConn ~ 4600 2850
 $EndSCHEMATC
