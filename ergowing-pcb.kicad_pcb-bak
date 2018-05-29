@@ -5,7 +5,7 @@
     (no_connects 247)
     (area 43.748094 28.857392 395.425 379.0775)
     (thickness 1.6)
-    (drawings 0)
+    (drawings 1)
     (tracks 0)
     (zones 0)
     (modules 150)
@@ -2855,7 +2855,7 @@
   )
 
   (module keebs:Mx_Alps_200 (layer F.Cu) (tedit 5B0BDE03) (tstamp 5B0B192C)
-    (at 166.895 122.175 355)
+    (at 166.77 124.08 355)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB625)
@@ -2947,7 +2947,7 @@
   )
 
   (module keebs:Mx_Alps_150 (layer F.Cu) (tedit 5B0BDD70) (tstamp 5B0B193E)
-    (at 180.645 71.515 265)
+    (at 180.52 73.42 265)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBE00)
@@ -2995,7 +2995,7 @@
   )
 
   (module keebs:Mx_Alps_150 (layer F.Cu) (tedit 5B0BDDAB) (tstamp 5B0B1947)
-    (at 178.165 99.475 265)
+    (at 178.04 101.38 265)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBE0C)
@@ -3995,7 +3995,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4B19)
-    (at 107.88 40.2225)
+    (at 107.63 43.4)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B7339)
@@ -4043,7 +4043,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4B3E)
-    (at 106.24 58.9625)
+    (at 105.99 62.14)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B7345)
@@ -4091,7 +4091,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4B63)
-    (at 104.61 77.6725)
+    (at 104.36 80.85)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B7351)
@@ -4139,7 +4139,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4B88)
-    (at 102.97 96.4125)
+    (at 102.72 99.59)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B735D)
@@ -4187,7 +4187,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4BAD)
-    (at 101.33 115.1225)
+    (at 101.08 118.3)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B7369)
@@ -4235,7 +4235,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4BD2)
-    (at 126.74625 40.2548)
+    (at 126.34 45.03)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B8163)
@@ -4283,7 +4283,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4BF7)
-    (at 125.10625 58.9648)
+    (at 124.7 63.74)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B816F)
@@ -4331,7 +4331,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4C1C)
-    (at 123.42625 77.7148)
+    (at 123.02 82.49)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B817B)
@@ -4379,7 +4379,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4C41)
-    (at 121.77625 96.4248)
+    (at 121.37 101.2)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B8187)
@@ -4427,7 +4427,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4C66)
-    (at 120.15625 115.1748)
+    (at 119.75 119.95)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B8193)
@@ -4475,7 +4475,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4C8B)
-    (at 145.34 43.5125)
+    (at 145.09 46.69)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BAD62)
@@ -4523,7 +4523,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4CB0)
-    (at 143.72 62.2325)
+    (at 143.47 65.41)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BAD6E)
@@ -4571,7 +4571,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4CD5)
-    (at 142.1 80.9825)
+    (at 141.85 84.16)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BAD7A)
@@ -4619,7 +4619,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4CFA)
-    (at 140.46 99.6925)
+    (at 140.21 102.87)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BAD86)
@@ -4667,7 +4667,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D1F)
-    (at 138.82 118.4425)
+    (at 138.57 121.62)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BAD92)
@@ -4715,7 +4715,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D44)
-    (at 163.915 46.405)
+    (at 163.79 48.31)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB5F5)
@@ -4763,7 +4763,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D69)
-    (at 162.275 65.155)
+    (at 162.15 67.06)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB601)
@@ -4811,7 +4811,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D8E)
-    (at 160.645 83.855)
+    (at 160.52 85.76)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB60D)
@@ -4859,7 +4859,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4DB3)
-    (at 158.995 102.595)
+    (at 158.87 104.5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB619)
@@ -4907,7 +4907,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4DD8)
-    (at 182.685 48.055)
+    (at 182.56 49.96)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBDF4)
@@ -6488,6 +6488,19 @@
       (net 94 col13))
     (pad 2 thru_hole oval (at 2.092935 -4.991405 1.1) (size 2.5 3.08) (drill oval 1.5 2.08) (layers *.Cu *.Mask F.SilkS)
       (net 77 "Net-(D13:4-Pad2)"))
+  )
+
+  (dimension 16.25 (width 0.3) (layer Dwgs.User)
+    (gr_text "16.250 mm" (at 198.875 32.9) (layer Dwgs.User) (tstamp 5B0C4664)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 207 43) (xy 207 31.55)))
+    (feature2 (pts (xy 190.75 43) (xy 190.75 31.55)))
+    (crossbar (pts (xy 190.75 34.25) (xy 207 34.25)))
+    (arrow1a (pts (xy 207 34.25) (xy 205.873496 34.836421)))
+    (arrow1b (pts (xy 207 34.25) (xy 205.873496 33.663579)))
+    (arrow2a (pts (xy 190.75 34.25) (xy 191.876504 34.836421)))
+    (arrow2b (pts (xy 190.75 34.25) (xy 191.876504 33.663579)))
   )
 
 )
