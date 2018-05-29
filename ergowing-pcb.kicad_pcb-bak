@@ -3,7 +3,7 @@
   (general
     (links 515)
     (no_connects 247)
-    (area 24.805661 28.857392 395.425 379.0775)
+    (area 43.748094 28.857392 354.051906 279.9875)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -63,7 +63,7 @@
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
     (grid_origin 12 12)
-    (visible_elements 7FFFF7FF)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -2781,7 +2781,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B180D)
-    (at 372.975 118.125 5)
+    (at 339.25 119.1 5)
     (path /5B0ABEA4/5B120A5F)
     (attr smd)
     (fp_text reference D13:4 (at 0 -1.925 5) (layer B.SilkS)
