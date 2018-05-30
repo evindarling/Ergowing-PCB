@@ -3,7 +3,7 @@
   (general
     (links 517)
     (no_connects 249)
-    (area -29.596701 20.324999 361.109533 137.475001)
+    (area -34.455001 24.304999 354.051906 135.97534)
     (thickness 1.6)
     (drawings 22)
     (tracks 0)
@@ -24,7 +24,7 @@
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user hide)
+    (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)
@@ -2862,7 +2862,7 @@
   )
 
   (module keyboard_parts:USB_miniB_hirose_5S8 (layer B.Cu) (tedit 5950B1FC) (tstamp 5B0B181A)
-    (at 198.928125 45.932813)
+    (at 198.928125 42.360938)
     (descr "USB miniB hirose UX60SC-MB-5S8")
     (tags "USB miniB hirose through hole UX60SC-MB-5S8")
     (path /5B08211D)
@@ -6548,7 +6548,7 @@
   (gr_line (start 52.51 25.68) (end 44.12 121.48) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 45.525 121.48) (end 45.402982 122.874673) (angle 90) (layer Edge.Cuts) (width 0.15) (tstamp 5B0DAB64))
   (gr_arc (start 53.9 25.8) (end 52.505327 25.677982) (angle 90) (layer Edge.Cuts) (width 0.15) (tstamp 5B0DAA66))
-  (gr_arc (start 356.52 30.91) (end 356.52 32.31) (angle 90) (layer Edge.Cuts) (width 0.15) (tstamp 5B0DAA55))
+  (gr_arc (start -32.98 34.46) (end -32.98 35.86) (angle 90) (layer Edge.Cuts) (width 0.15) (tstamp 5B0DAA55))
   (gr_line (start -29.4 49.9) (end -29.4 33.7) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start -2.3 51.3) (end -28 51.3) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start -0.9 33.7) (end -0.9 49.9) (angle 90) (layer Edge.Cuts) (width 0.15))
@@ -6561,4 +6561,15 @@
   (gr_line (start 192.95 36.54) (end 204.85 36.54) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 185 135.2) (end 213 135.2) (angle 90) (layer Edge.Cuts) (width 0.15))
 
+  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 5B0E60C1) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 44.05 122.71) (xy 52.64 24.29) (xy 192.9 36.54) (xy 204.95 36.53) (xy 345.19 24.28)
+        (xy 353.77 122.82) (xy 213.02 135.22) (xy 184.92 135.19) (xy 44.06 122.71)
+      )
+    )
+  )
 )
