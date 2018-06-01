@@ -419,9 +419,9 @@ Connection ~ 750  4350
 Wire Wire Line
 	1150 4550 1150 4750
 Wire Wire Line
-	2950 1900 2950 1700
+	2950 1700 2950 1900
 Wire Wire Line
-	2950 1500 2950 1300
+	2950 1300 2950 1500
 Wire Wire Line
 	2950 1400 3950 1400
 Wire Wire Line
@@ -478,7 +478,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 3150 2350 3150
 Wire Wire Line
-	2150 3150 1500 3150
+	1500 3150 2150 3150
 Wire Wire Line
 	2000 3050 2000 3150
 Connection ~ 2000 3150
@@ -533,7 +533,7 @@ Text GLabel 2450 2650 0    60   Input ~ 0
 col4
 Text GLabel 4600 2950 2    60   Input ~ 0
 col5
-Text GLabel 4600 3050 2    60   Input ~ 0
+Text GLabel 2450 3750 0    60   Input ~ 0
 col6
 Text GLabel 4600 3150 2    60   Input ~ 0
 col7
@@ -571,7 +571,6 @@ F 3 "" H 5400 3750 50  0001 C CNN
 	1    5400 3750
 	0    -1   -1   0   
 $EndComp
-NoConn ~ 2450 3750
 NoConn ~ 2450 4350
 NoConn ~ 2450 4450
 NoConn ~ 2450 4550
