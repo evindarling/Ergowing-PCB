@@ -2,11 +2,19 @@
 
   (general
     (links 515)
+<<<<<<< HEAD
     (no_connects 87)
     (area 43.748094 24.28 354.051906 135.97534)
     (thickness 1.6)
     (drawings 12)
     (tracks 814)
+=======
+    (no_connects 204)
+    (area -34.455001 24.304999 354.051906 135.97534)
+    (thickness 1.6)
+    (drawings 12)
+    (tracks 136)
+>>>>>>> parent of d70f662... Rows wired
     (zones 0)
     (modules 150)
     (nets 107)
@@ -6965,6 +6973,7 @@
   (segment (start 198.928125 42.360938) (end 198.928125 85.241875) (width 0.25) (layer B.Cu) (net 79))
   (segment (start 196.3875 87.7825) (end 196.3875 95.939063) (width 0.25) (layer B.Cu) (net 79) (tstamp 5B0E6577))
   (segment (start 198.928125 85.241875) (end 196.3875 87.7825) (width 0.25) (layer B.Cu) (net 79) (tstamp 5B0E6567))
+<<<<<<< HEAD
   (segment (start 51.300598 110.430598) (end 51.300598 110.430601) (width 0.25) (layer F.Cu) (net 81) (tstamp 5B0E6F1D))
   (segment (start 51.530794 110.660794) (end 51.300598 110.430598) (width 0.25) (layer F.Cu) (net 81) (tstamp 5B0E6F1B))
   (segment (start 51.530794 110.678413) (end 51.530794 110.660794) (width 0.25) (layer F.Cu) (net 81))
@@ -7263,6 +7272,8 @@
   (segment (start 328.572958 36.789209) (end 323.89707 37.198296) (width 0.25) (layer F.Cu) (net 94))
   (segment (start 323.89707 37.198296) (end 325.514394 55.68439) (width 0.25) (layer F.Cu) (net 94))
   (segment (start 325.514394 55.68439) (end 325.542464 56.005231) (width 0.25) (layer F.Cu) (net 94) (tstamp 5B0E86B6))
+=======
+>>>>>>> parent of d70f662... Rows wired
   (segment (start 195.778125 123.804688) (end 202.078125 123.804688) (width 0.25) (layer B.Cu) (net 95))
   (segment (start 189.403125 127.054688) (end 191.335312 127.054688) (width 0.25) (layer B.Cu) (net 95))
   (segment (start 194.585312 123.804688) (end 195.778125 123.804688) (width 0.25) (layer B.Cu) (net 95) (tstamp 5B0E645D))
