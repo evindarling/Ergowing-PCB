@@ -514,13 +514,13 @@ Wire Wire Line
 Text GLabel 4600 3850 2    60   Input ~ 0
 row4
 Text GLabel 4600 3950 2    60   Input ~ 0
-row0
-Text GLabel 4600 4050 2    60   Input ~ 0
-row1
-Text GLabel 4600 4150 2    60   Input ~ 0
-row2
-Text GLabel 4600 4250 2    60   Input ~ 0
 row3
+Text GLabel 4600 4050 2    60   Input ~ 0
+row2
+Text GLabel 4600 4150 2    60   Input ~ 0
+row1
+Text GLabel 4600 4250 2    60   Input ~ 0
+row0
 Text GLabel 2450 3650 0    60   Input ~ 0
 col0
 Text GLabel 2450 3550 0    60   Input ~ 0
