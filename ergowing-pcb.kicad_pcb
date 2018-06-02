@@ -4,11 +4,19 @@
     (links 515)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     (no_connects 19)
     (area 43.748094 24.28 354.051906 135.97534)
     (thickness 1.6)
     (drawings 12)
     (tracks 1694)
+=======
+    (no_connects 87)
+    (area 43.748094 24.28 354.051906 135.97534)
+    (thickness 1.6)
+    (drawings 12)
+    (tracks 814)
+>>>>>>> parent of 709e624... Rows 0 & 1 wired
 =======
     (no_connects 87)
     (area 43.748094 24.28 354.051906 135.97534)
@@ -6657,6 +6665,7 @@
   (segment (start 67.777381 41.927381) (end 68.925151 43.29524) (width 0.25) (layer F.Cu) (net 6) (tstamp 5B0E88F0))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (segment (start 210.575805 115.936082) (end 210.516082 115.936082) (width 0.25) (layer B.Cu) (net 7))
   (segment (start 220.46298 115.071067) (end 212.013343 115.810314) (width 0.25) (layer B.Cu) (net 7))
   (segment (start 249.844536 112.354953) (end 249.844536 112.365464) (width 0.25) (layer B.Cu) (net 7))
@@ -6821,11 +6830,14 @@
 >>>>>>> parent of 709e624... Rows 0 & 1 wired
 =======
 >>>>>>> parent of 709e624... Rows 0 & 1 wired
+=======
+>>>>>>> parent of 709e624... Rows 0 & 1 wired
   (segment (start 67.435037 63.090029) (end 67.435037 61.694508) (width 0.25) (layer F.Cu) (net 8))
   (segment (start 66.186189 60.203799) (end 66.737887 53.89786) (width 0.25) (layer F.Cu) (net 8))
   (segment (start 66.186189 60.203799) (end 66.186189 60.206189) (width 0.25) (layer F.Cu) (net 8))
   (segment (start 66.186189 60.206189) (end 67.435037 61.694508) (width 0.25) (layer F.Cu) (net 8) (tstamp 5B0E89CF))
   (segment (start 67.435037 63.090029) (end 67.335159 63.189907) (width 0.25) (layer F.Cu) (net 8) (tstamp 5B0E89E6))
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   (segment (start 212.290155 115.1189) (end 211.18532 115.215561) (width 0.25) (layer B.Cu) (net 9))
@@ -7001,6 +7013,8 @@
   (segment (start 120.821702 66.101702) (end 131.66787 67.050619) (width 0.25) (layer B.Cu) (net 9) (tstamp 5B0EA25A))
   (segment (start 131.66787 67.050619) (end 131.66787 67.05787) (width 0.25) (layer B.Cu) (net 9))
   (segment (start 150.378158 70.333173) (end 150.383173 70.333173) (width 0.25) (layer B.Cu) (net 9))
+=======
+>>>>>>> parent of 709e624... Rows 0 & 1 wired
 =======
 >>>>>>> parent of 709e624... Rows 0 & 1 wired
 =======
