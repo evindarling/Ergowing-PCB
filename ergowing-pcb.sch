@@ -522,13 +522,13 @@ col1
 Text GLabel 4600 4250 2    60   Input ~ 0
 col0
 Text GLabel 2450 3650 0    60   Input ~ 0
-row1
+row0
 Text GLabel 2450 3550 0    60   Input ~ 0
-row2
+row1
 Text GLabel 2450 3450 0    60   Input ~ 0
-row3
+row2
 Text GLabel 2450 3350 0    60   Input ~ 0
-row4
+row3
 Text GLabel 2450 2650 0    60   Input ~ 0
 col4
 Text GLabel 4600 2950 2    60   Input ~ 0
