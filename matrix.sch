@@ -1971,7 +1971,7 @@ Text GLabel 3450 2250 1    60   Input ~ 0
 col3
 Text GLabel 4150 2250 1    60   Input ~ 0
 col4
-Text GLabel 4900 2250 1    60   Input ~ 0
+Text GLabel 4850 2250 1    60   Input ~ 0
 col5
 Text GLabel 5550 2250 1    60   Input ~ 0
 col6
