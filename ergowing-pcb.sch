@@ -512,23 +512,23 @@ Wire Wire Line
 Wire Wire Line
 	4600 4750 4850 4750
 Text GLabel 4600 3850 2    60   Input ~ 0
-row4
+col10
 Text GLabel 4600 3950 2    60   Input ~ 0
-row0
-Text GLabel 4600 4050 2    60   Input ~ 0
-row1
-Text GLabel 4600 4150 2    60   Input ~ 0
-row2
-Text GLabel 4600 4250 2    60   Input ~ 0
-row3
-Text GLabel 2450 3650 0    60   Input ~ 0
-col0
-Text GLabel 2450 3550 0    60   Input ~ 0
-col1
-Text GLabel 2450 3450 0    60   Input ~ 0
-col2
-Text GLabel 2450 3350 0    60   Input ~ 0
 col3
+Text GLabel 4600 4050 2    60   Input ~ 0
+col2
+Text GLabel 4600 4150 2    60   Input ~ 0
+col1
+Text GLabel 4600 4250 2    60   Input ~ 0
+col0
+Text GLabel 2450 3650 0    60   Input ~ 0
+row1
+Text GLabel 2450 3550 0    60   Input ~ 0
+row2
+Text GLabel 2450 3450 0    60   Input ~ 0
+row3
+Text GLabel 2450 3350 0    60   Input ~ 0
+row4
 Text GLabel 2450 2650 0    60   Input ~ 0
 col4
 Text GLabel 4600 2950 2    60   Input ~ 0
@@ -542,7 +542,7 @@ col8
 Text GLabel 4600 3350 2    60   Input ~ 0
 col9
 Text GLabel 4600 3450 2    60   Input ~ 0
-col10
+row4
 Text GLabel 4600 4350 2    60   Input ~ 0
 col11
 Text GLabel 4600 4450 2    60   Input ~ 0
