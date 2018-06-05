@@ -1546,8 +1546,7 @@ Connection ~ 1350 3800
 Connection ~ 1350 4450
 Connection ~ 1350 5100
 Wire Wire Line
-	1350 2250 1350 5100
-Connection ~ 1350 2500
+	1350 2500 1350 5600
 Wire Wire Line
 	750  3550 10850 3550
 Wire Wire Line
@@ -1571,7 +1570,7 @@ Connection ~ 2050 3800
 Connection ~ 2050 4450
 Connection ~ 2050 5100
 Wire Wire Line
-	2050 2250 2050 5100
+	2050 2500 2050 5600
 Connection ~ 2050 2500
 Wire Wire Line
 	2150 2650 2150 2500
@@ -1588,7 +1587,7 @@ Connection ~ 2750 3800
 Connection ~ 2750 4450
 Connection ~ 2750 5100
 Wire Wire Line
-	2750 2250 2750 5100
+	2750 2500 2750 5600
 Connection ~ 2750 2500
 Wire Wire Line
 	2850 2650 2850 2500
@@ -1605,7 +1604,7 @@ Connection ~ 3450 3800
 Connection ~ 3450 4450
 Connection ~ 3450 5100
 Wire Wire Line
-	3450 2250 3450 5100
+	3450 2500 3450 5600
 Connection ~ 3450 2500
 Wire Wire Line
 	3550 2650 3550 2500
@@ -1622,7 +1621,7 @@ Connection ~ 4150 3800
 Connection ~ 4150 4450
 Connection ~ 4150 5100
 Wire Wire Line
-	4150 2250 4150 5100
+	4150 2500 4150 5600
 Connection ~ 4150 2500
 Wire Wire Line
 	4250 2650 4250 2500
@@ -1639,7 +1638,7 @@ Connection ~ 4850 3800
 Connection ~ 4850 4450
 Connection ~ 4850 5100
 Wire Wire Line
-	4850 2250 4850 5100
+	4850 2500 4850 5600
 Connection ~ 4850 2500
 Wire Wire Line
 	4950 2650 4950 2500
@@ -1649,7 +1648,7 @@ Wire Wire Line
 	4950 4600 4950 4450
 Connection ~ 5550 3150
 Wire Wire Line
-	5550 2250 5550 4450
+	5550 2500 5550 5600
 Connection ~ 5550 2500
 Connection ~ 750  2900
 Connection ~ 750  3550
@@ -1753,7 +1752,7 @@ Wire Wire Line
 	6000 5250 6000 5100
 Connection ~ 6600 3150
 Wire Wire Line
-	6600 2250 6600 5100
+	6600 2500 6600 5600
 Connection ~ 6600 2500
 Wire Wire Line
 	6700 2650 6700 2500
@@ -1770,7 +1769,7 @@ Connection ~ 7300 3800
 Connection ~ 7300 4450
 Connection ~ 7300 5100
 Wire Wire Line
-	7300 2250 7300 5100
+	7300 2500 7300 5600
 Connection ~ 7300 2500
 Wire Wire Line
 	7400 2650 7400 2500
@@ -1787,7 +1786,7 @@ Connection ~ 8000 3800
 Connection ~ 8000 4450
 Connection ~ 8000 5100
 Wire Wire Line
-	8000 2250 8000 5100
+	8000 2500 8000 5600
 Connection ~ 8000 2500
 Wire Wire Line
 	8100 2650 8100 2500
@@ -1804,7 +1803,7 @@ Connection ~ 8700 3800
 Connection ~ 8700 4450
 Connection ~ 8700 5100
 Wire Wire Line
-	8700 2250 8700 5100
+	8700 2500 8700 5600
 Connection ~ 8700 2500
 Wire Wire Line
 	8800 2650 8800 2500
@@ -1821,7 +1820,7 @@ Connection ~ 9400 3800
 Connection ~ 9400 4450
 Connection ~ 9400 5100
 Wire Wire Line
-	9400 2250 9400 5100
+	9400 2500 9400 5600
 Connection ~ 9400 2500
 Wire Wire Line
 	9500 2650 9500 2500
@@ -1838,7 +1837,7 @@ Connection ~ 10100 3800
 Connection ~ 10100 4450
 Connection ~ 10100 5100
 Wire Wire Line
-	10100 2250 10100 5100
+	10100 2500 10100 5600
 Connection ~ 10100 2500
 Wire Wire Line
 	10200 2650 10200 2500
@@ -1849,7 +1848,7 @@ Wire Wire Line
 Connection ~ 10800 3150
 Connection ~ 10800 3800
 Wire Wire Line
-	10800 2250 10800 5100
+	10800 2500 10800 5600
 Connection ~ 10800 2500
 Connection ~ 6000 2900
 Connection ~ 6000 3550
@@ -1961,33 +1960,33 @@ Wire Wire Line
 	6000 5450 6000 5500
 Connection ~ 6000 5500
 Connection ~ 5550 4450
-Text GLabel 1350 2250 1    60   Input ~ 0
+Text GLabel 1350 5600 3    60   Input ~ 0
 col0
-Text GLabel 2050 2250 1    60   Input ~ 0
+Text GLabel 2050 5600 3    60   Input ~ 0
 col1
-Text GLabel 2750 2250 1    60   Input ~ 0
+Text GLabel 2750 5600 3    60   Input ~ 0
 col2
-Text GLabel 3450 2250 1    60   Input ~ 0
+Text GLabel 3450 5600 3    60   Input ~ 0
 col3
-Text GLabel 4150 2250 1    60   Input ~ 0
+Text GLabel 4150 5600 3    60   Input ~ 0
 col4
-Text GLabel 4850 2250 1    60   Input ~ 0
+Text GLabel 4850 5600 3    60   Input ~ 0
 col5
-Text GLabel 5550 2250 1    60   Input ~ 0
+Text GLabel 5550 5600 3    60   Input ~ 0
 col6
-Text GLabel 6600 2250 1    60   Input ~ 0
+Text GLabel 6600 5600 3    60   Input ~ 0
 col7
-Text GLabel 7300 2250 1    60   Input ~ 0
+Text GLabel 7300 5600 3    60   Input ~ 0
 col8
-Text GLabel 8000 2250 1    60   Input ~ 0
+Text GLabel 8000 5600 3    60   Input ~ 0
 col9
-Text GLabel 8700 2250 1    60   Input ~ 0
+Text GLabel 8700 5600 3    60   Input ~ 0
 col10
-Text GLabel 9400 2250 1    60   Input ~ 0
+Text GLabel 9400 5600 3    60   Input ~ 0
 col11
-Text GLabel 10100 2250 1    60   Input ~ 0
+Text GLabel 10100 5600 3    60   Input ~ 0
 col12
-Text GLabel 10800 2250 1    60   Input ~ 0
+Text GLabel 10800 5600 3    60   Input ~ 0
 col13
 Text GLabel 10850 2900 2    60   Input ~ 0
 row0
