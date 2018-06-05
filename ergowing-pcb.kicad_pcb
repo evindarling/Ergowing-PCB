@@ -1,14 +1,14 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7)
 
   (general
-    (links 516)
-    (no_connects 3)
+    (links 524)
+    (no_connects 0)
     (area 43.748094 24.28 354.051906 135.97534)
     (thickness 1.6)
     (drawings 12)
-    (tracks 1854)
+    (tracks 1870)
     (zones 0)
-    (modules 150)
+    (modules 158)
     (nets 106)
   )
 
@@ -58,8 +58,8 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 1.524 1.524)
-    (pad_drill 0.762)
+    (pad_size 0.6 0.6)
+    (pad_drill 0.3)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
     (grid_origin 12 12)
@@ -310,6 +310,102 @@
     (add_net row2)
     (add_net row3)
     (add_net row4)
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16C098)
+    (at 197.6 67.1)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16C08C)
+    (at 197.6 83.9)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BFFA)
+    (at 197.6 95.9)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BFF6)
+    (at 257.9 108.1)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BFF2)
+    (at 205.5 124.4)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BFEE)
+    (at 166 131.3)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BF05)
+    (at 183 131.9)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6-f (layer F.Cu) (tedit 5B16BEEF) (tstamp 5B16BE55)
+    (at 194.1 83.9)
+    (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (fp_text value VIA-0.6-f (at 0 0) (layer F.Fab) hide
+      (effects (font (size 0.2 0.2) (thickness 0.05)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 2 GND) (zone_connect 2))
   )
 
   (module keebs:Mx_Alps_150 (layer F.Cu) (tedit 5B0EE29A) (tstamp 5B0B1962)
@@ -6492,6 +6588,24 @@
   (segment (start 205.47 103.71) (end 204.2 104.98) (width 0.25) (layer B.Cu) (net 1) (tstamp 5B13B6D8))
   (segment (start 204.2 104.98) (end 204.2 106.204567) (width 0.25) (layer B.Cu) (net 1) (tstamp 5B13B6D9))
   (segment (start 204.2 106.204567) (end 202.392948 108.011619) (width 0.25) (layer B.Cu) (net 1) (tstamp 5B13B6DB))
+  (via (at 187.18 111.66) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 2))
+  (segment (start 187.19 111.66) (end 187.18 111.66) (width 0.25) (layer F.Cu) (net 2) (tstamp 5B166A35))
+  (segment (start 188.56 113.03) (end 187.19 111.66) (width 0.25) (layer F.Cu) (net 2) (tstamp 5B166A34))
+  (via (at 188.56 113.03) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 2))
+  (segment (start 187.18 111.66) (end 185.41 109.89) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B166A38))
+  (segment (start 185.41 109.89) (end 185.41 109.88) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B166A39))
+  (segment (start 185.41 109.88) (end 185.704586 106.512862) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 185.704586 105.781226) (end 185.704586 106.512862) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 190.88 115.35) (end 188.56 113.03) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B166A2D))
+  (segment (start 191.36 115.35) (end 190.88 115.35) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 191.67 115.35) (end 191.36 115.35) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157179))
+  (segment (start 191.67 115.35) (end 192.634875 114.385125) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157178))
+  (segment (start 185.704586 105.781226) (end 185.714757 105.771055) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B166A54))
+  (segment (start 201.603125 37.160938) (end 201.603125 38.985938) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 201.603125 38.985938) (end 202.578125 39.960938) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B1668C0))
+  (segment (start 196.253125 37.160938) (end 201.603125 37.160938) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 195.278125 39.960938) (end 195.278125 38.135938) (width 0.25) (layer B.Cu) (net 2))
+  (segment (start 195.278125 38.135938) (end 196.253125 37.160938) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B1668BA))
   (segment (start 194.04 128.48) (end 194.04 127.59) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B1651EC))
   (segment (start 194.02 128.5) (end 194.04 128.48) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B1651EB))
   (via (at 194.02 128.5) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 2))
@@ -6513,8 +6627,6 @@
   (segment (start 195.83 109.94) (end 197.15 108.62) (width 0.25) (layer F.Cu) (net 2) (tstamp 5B1596D5))
   (via (at 195.83 109.94) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 2))
   (segment (start 192.634875 114.37558) (end 192.634875 114.385125) (width 0.25) (layer B.Cu) (net 2))
-  (segment (start 192.634875 114.385125) (end 191.67 115.35) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157178))
-  (segment (start 191.67 115.35) (end 191.36 115.35) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157179))
   (segment (start 192.634875 114.37558) (end 192.64442 114.37558) (width 0.25) (layer B.Cu) (net 2))
   (segment (start 192.64442 114.37558) (end 193.48 113.54) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157173))
   (segment (start 193.48 113.54) (end 193.75 113.54) (width 0.25) (layer B.Cu) (net 2) (tstamp 5B157175))
@@ -12858,11 +12970,51 @@
     )
     (filled_polygon
       (pts
+        (xy 182.485739 129.405293) (xy 186.752316 134.49) (xy 185.031297 134.49) (xy 178.882715 133.946934) (xy 179.555309 133.669024)
+        (xy 180.295475 132.930148) (xy 180.696544 131.964267) (xy 180.697457 130.918426) (xy 180.298074 129.951845) (xy 179.559198 129.211679)
+        (xy 179.368731 129.13259)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 158.911453 127.820535) (xy 159.965764 129.077014) (xy 160.197029 129.262623) (xy 160.48172 129.345603) (xy 162.630227 129.533573)
+        (xy 173.266431 130.46412) (xy 173.273932 130.463299) (xy 173.27675 130.46412) (xy 173.303437 130.461197) (xy 173.332669 130.467012)
+        (xy 173.342988 130.467012) (xy 173.456492 130.444434) (xy 173.571524 130.431836) (xy 173.600929 130.415704) (xy 173.633827 130.40916)
+        (xy 173.730045 130.344869) (xy 173.831507 130.289206) (xy 175.602586 128.803095) (xy 177.220813 128.944671) (xy 176.580895 129.20908)
+        (xy 175.840729 129.947956) (xy 175.43966 130.913837) (xy 175.438747 131.959678) (xy 175.83813 132.926259) (xy 176.577006 133.666425)
+        (xy 176.812115 133.764051) (xy 155.137178 131.849638) (xy 155.770164 131.588094) (xy 156.51033 130.849218) (xy 156.911399 129.883337)
+        (xy 156.912312 128.837496) (xy 156.512929 127.870915) (xy 156.2283 127.585789)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 195.309673 121.082192) (xy 195.653201 121.224838) (xy 195.700077 121.224879) (xy 201.428113 126.952915) (xy 201.194683 126.996838)
+        (xy 200.978559 127.13591) (xy 200.83911 127.34) (xy 197.417279 127.34) (xy 197.29409 127.148559) (xy 197.08189 127.003569)
+        (xy 196.83 126.95256) (xy 195.13 126.95256) (xy 194.894683 126.996838) (xy 194.678559 127.13591) (xy 194.533569 127.34811)
+        (xy 194.48256 127.6) (xy 194.48256 128.522638) (xy 193.105198 129.9) (xy 192.905558 129.9) (xy 192.863162 129.674683)
+        (xy 192.72409 129.458559) (xy 192.51189 129.313569) (xy 192.498803 129.310919) (xy 192.711441 129.17409) (xy 192.856431 128.96189)
+        (xy 192.90744 128.71) (xy 192.90744 127.21) (xy 192.863162 126.974683) (xy 192.72409 126.758559) (xy 192.51189 126.613569)
+        (xy 192.26 126.56256) (xy 190.96 126.56256) (xy 190.934775 126.567306) (xy 187.384983 124.084586) (xy 187.525695 122.476242)
+        (xy 187.69916 122.592148) (xy 187.720783 122.596449) (xy 187.99 122.65) (xy 193.01 122.65) (xy 193.300839 122.592148)
+        (xy 193.547401 122.427401) (xy 195.101323 120.873479)
+      )
+    )
+    (filled_polygon
+      (pts
         (xy 203.217914 126.102716) (xy 203.245803 126.121351) (xy 203.266797 126.147509) (xy 203.368252 126.203169) (xy 203.464475 126.267463)
         (xy 203.497374 126.274007) (xy 203.526779 126.290139) (xy 203.640901 126.302638) (xy 203.545162 126.533201) (xy 203.544838 126.905167)
         (xy 203.686883 127.248943) (xy 203.72 127.282118) (xy 203.72 127.344229) (xy 203.59409 127.148559) (xy 203.38189 127.003569)
         (xy 203.13 126.95256) (xy 203.04 126.95256) (xy 203.04 126.73) (xy 203.015501 126.606838) (xy 202.982148 126.43916)
         (xy 202.817401 126.192599) (xy 197.45065 120.825848) (xy 197.633794 120.791387) (xy 197.79781 120.682612)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 198.947614 119.588682) (xy 200.008274 120.649342) (xy 200.205977 120.784427) (xy 200.440499 120.835301) (xy 203.629185 124.023987)
+        (xy 203.657074 124.042621) (xy 203.678068 124.06878) (xy 203.779526 124.124441) (xy 203.875747 124.188734) (xy 203.908645 124.195278)
+        (xy 203.93805 124.21141) (xy 204.053082 124.224008) (xy 204.166586 124.246586) (xy 204.199483 124.240042) (xy 204.232824 124.243694)
+        (xy 209.249872 123.804759) (xy 209.284284 123.927543) (xy 209.441663 124.130724) (xy 209.505949 124.166864) (xy 209.497024 124.18274)
+        (xy 209.483631 124.301249) (xy 204.042122 124.77732) (xy 198.88106 119.616258) (xy 198.908636 119.588682) (xy 198.928416 119.559734)
       )
     )
     (filled_polygon
@@ -13038,6 +13190,18 @@
     )
     (filled_polygon
       (pts
+        (xy 287.771021 104.432845) (xy 287.791198 104.463042) (xy 287.819086 104.481676) (xy 287.84008 104.507834) (xy 287.941539 104.563496)
+        (xy 288.03776 104.627789) (xy 288.070656 104.634333) (xy 288.100062 104.650465) (xy 288.109244 104.651471) (xy 269.979083 106.237654)
+        (xy 268.387985 106.376857) (xy 268.385749 106.377509) (xy 268.379797 106.376857) (xy 268.268694 106.409241) (xy 268.155196 106.431817)
+        (xy 268.127308 106.450451) (xy 268.095106 106.459837) (xy 268.004851 106.532274) (xy 267.908634 106.596564) (xy 267.890001 106.624451)
+        (xy 267.863841 106.645446) (xy 266.960769 107.721686) (xy 251.067028 109.112208) (xy 250.265983 109.18229) (xy 250.490605 109.002013)
+        (xy 251.445062 107.864536) (xy 253.925852 107.647495) (xy 263.127746 106.842434) (xy 267.954145 106.420179) (xy 268.238836 106.337199)
+        (xy 268.470101 106.15159) (xy 269.732065 104.64764) (xy 269.92249 104.63098) (xy 272.530541 104.402805) (xy 282.956582 103.490645)
+        (xy 286.299592 103.19817)
+      )
+    )
+    (filled_polygon
+      (pts
         (xy 204.35256 103.407362) (xy 204.35256 103.752638) (xy 203.662599 104.442599) (xy 203.497852 104.689161) (xy 203.44 104.98)
         (xy 203.44 105.889765) (xy 202.679308 106.650457) (xy 202.609831 106.66353) (xy 202.625547 106.59108) (xy 203.027401 106.189226)
         (xy 203.192148 105.942665) (xy 203.205609 105.87499) (xy 203.25 105.651825) (xy 203.25 103.58) (xy 203.196603 103.311557)
@@ -13049,6 +13213,36 @@
         (xy 205.827 105.183) (xy 205.847 105.183) (xy 205.847 105.437) (xy 205.827 105.437) (xy 205.827 105.457)
         (xy 205.573 105.457) (xy 205.573 105.437) (xy 205.553 105.437) (xy 205.553 105.183) (xy 205.573 105.183)
         (xy 205.573 105.163) (xy 205.827 105.163)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 198.17 95.03744) (xy 198.947758 95.03744) (xy 191.58032 102.404878) (xy 191.534833 102.404838) (xy 191.191057 102.546883)
+        (xy 191.132161 102.605676) (xy 190.798057 102.271572) (xy 191.108943 102.143117) (xy 191.372192 101.880327) (xy 191.514838 101.536799)
+        (xy 191.514879 101.489923) (xy 198.001487 95.003315)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 197.884838 80.075167) (xy 198.026883 80.418943) (xy 198.06 80.452118) (xy 198.06 87.007537) (xy 198.027808 87.039673)
+        (xy 197.885162 87.383201) (xy 197.885043 87.519285) (xy 197.195054 87.519285) (xy 197.195162 87.394833) (xy 197.053117 87.051057)
+        (xy 197.02 87.017882) (xy 197.02 80.38248) (xy 197.042192 80.360327) (xy 197.184838 80.016799) (xy 197.184914 79.92928)
+        (xy 197.884965 79.92928)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 194.62 87.027537) (xy 194.587808 87.059673) (xy 194.445162 87.403201) (xy 194.445061 87.519285) (xy 193.795088 87.519285)
+        (xy 193.795162 87.434833) (xy 193.653117 87.091057) (xy 193.62 87.057882) (xy 193.62 80.382463) (xy 193.652192 80.350327)
+        (xy 193.794838 80.006799) (xy 193.794906 79.92928) (xy 194.62 79.92928)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 197.884838 56.525167) (xy 198.026883 56.868943) (xy 198.06 56.902118) (xy 198.06 74.26) (xy 198.060183 74.260922)
+        (xy 198.060002 74.261845) (xy 198.068636 77.818899) (xy 198.037808 77.849673) (xy 197.895162 78.193201) (xy 197.894974 78.40928)
+        (xy 197.18508 78.40928) (xy 197.185162 78.314833) (xy 197.043117 77.971057) (xy 197.01 77.937882) (xy 197.01 56.394291)
+        (xy 197.884952 56.394291)
       )
     )
   )
