@@ -1806,7 +1806,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B169B)
-    (at 172.901291 243.782833)
+    (at 174.153438 243.729182)
     (path /5B0ABEA4/5B0BB62B)
     (attr smd)
     (fp_text reference D5:4 (at 0 -1.925) (layer B.SilkS)
@@ -3101,7 +3101,7 @@
   )
 
   (module keebs:Mx_Alps_200 (layer F.Cu) (tedit 5B190546) (tstamp 5B0B192C)
-    (at 172.809509 239.348968)
+    (at 174.153438 239.318278)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB625)
