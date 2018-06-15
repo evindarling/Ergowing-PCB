@@ -1674,7 +1674,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B1673)
-    (at 163.306305 168.532744)
+    (at 164.628438 167.529182)
     (path /5B0ABEA4/5B0BB5FB)
     (attr smd)
     (fp_text reference D5:0 (at 0 -1.925) (layer B.SilkS)
@@ -1707,7 +1707,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B167D)
-    (at 163.296755 187.355201)
+    (at 164.628438 186.579182)
     (path /5B0ABEA4/5B0BB607)
     (attr smd)
     (fp_text reference D5:1 (at 0 -1.925) (layer B.SilkS)
@@ -1740,7 +1740,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B1687)
-    (at 163.332659 206.123492)
+    (at 164.628438 205.629182)
     (path /5B0ABEA4/5B0BB613)
     (attr smd)
     (fp_text reference D5:2 (at 0 -1.925) (layer B.SilkS)
@@ -1773,7 +1773,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B1691)
-    (at 163.372917 224.941594)
+    (at 164.628438 224.679182)
     (path /5B0ABEA4/5B0BB61F)
     (attr smd)
     (fp_text reference D5:3 (at 0 -1.925) (layer B.SilkS)
@@ -4765,7 +4765,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D44)
-    (at 163.237059 164.127016 5)
+    (at 164.628438 163.118278 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB5F5)
@@ -4813,7 +4813,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D69)
-    (at 163.237471 182.948601 5)
+    (at 164.628438 182.168278 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB601)
@@ -4861,7 +4861,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4D8E)
-    (at 163.243488 201.719503 5)
+    (at 164.628438 201.218278 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB60D)
@@ -4909,7 +4909,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4DB3)
-    (at 163.233056 220.532 5)
+    (at 164.628438 220.268278 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BB619)
