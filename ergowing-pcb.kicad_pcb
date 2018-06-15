@@ -473,7 +473,7 @@
   )
 
   (module keebs:Mx_Alps_150 (layer F.Cu) (tedit 5B0E943F) (tstamp 5B0B1947)
-    (at 182.058189 215.7531)
+    (at 183.678438 215.506178)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBE0C)
@@ -517,7 +517,7 @@
   )
 
   (module keebs:Mx_Alps_150 (layer F.Cu) (tedit 5B0E9416) (tstamp 5B0B193E)
-    (at 182.091873 187.683349)
+    (at 183.678438 186.931178)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBE00)
@@ -1839,7 +1839,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B16A5)
-    (at 182.128764 168.542293)
+    (at 183.678438 167.529182)
     (path /5B0ABEA4/5B0BBDFA)
     (attr smd)
     (fp_text reference D6:0 (at 0 -1.925) (layer B.SilkS)
@@ -1872,7 +1872,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B16AF)
-    (at 182.233473 192.112862)
+    (at 183.678438 191.342082)
     (path /5B0ABEA4/5B0BBE06)
     (attr smd)
     (fp_text reference D6:1 (at 0 -1.925) (layer B.SilkS)
@@ -1905,7 +1905,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B16B9)
-    (at 182.178114 220.164431)
+    (at 183.678438 219.917082)
     (path /5B0ABEA4/5B0BBE12)
     (attr smd)
     (fp_text reference D6:3 (at 0 -1.925) (layer B.SilkS)
@@ -4957,7 +4957,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4DD8)
-    (at 182.079438 164.134824 5)
+    (at 183.678438 163.118278 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0BBDF4)
