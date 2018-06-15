@@ -1014,7 +1014,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B15AB)
-    (at 88.086813 170.44583)
+    (at 88.428438 169.431682)
     (path /5B0ABEA4/5B0B5812)
     (attr smd)
     (fp_text reference D1:0 (at 0 -1.925) (layer B.SilkS)
@@ -1047,7 +1047,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B15B5)
-    (at 88.072898 189.21848)
+    (at 88.428438 188.481682)
     (path /5B0ABEA4/5B0B581E)
     (attr smd)
     (fp_text reference D1:1 (at 0 -1.925) (layer B.SilkS)
@@ -1080,7 +1080,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B15BF)
-    (at 88.063343 208.040943)
+    (at 88.428438 207.531682)
     (path /5B0ABEA4/5B0B582A)
     (attr smd)
     (fp_text reference D1:2 (at 0 -1.925) (layer B.SilkS)
@@ -1113,7 +1113,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B15C9)
-    (at 88.099248 226.809232)
+    (at 88.428438 226.581682)
     (path /5B0ABEA4/5B0B5836)
     (attr smd)
     (fp_text reference D1:3 (at 0 -1.925) (layer B.SilkS)
@@ -1146,7 +1146,7 @@
   )
 
   (module keyboard_parts:D_SOD123_axial (layer B.Cu) (tedit 561B6A12) (tstamp 5B0B15D3)
-    (at 88.089702 245.631682)
+    (at 88.428438 245.631682)
     (path /5B0ABEA4/5B0B5842)
     (attr smd)
     (fp_text reference D1:4 (at 0 -1.925) (layer B.SilkS)
@@ -3805,7 +3805,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4A60)
-    (at 88.083627 166.049383 5)
+    (at 88.428438 165.020778 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B580C)
@@ -3853,7 +3853,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4A85)
-    (at 88.08391 184.840868 5)
+    (at 88.428438 184.070778 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B5818)
@@ -3901,7 +3901,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4AAA)
-    (at 88.089171 203.631911 5)
+    (at 88.428438 203.120778 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B5824)
@@ -3949,7 +3949,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4ACF)
-    (at 88.106897 222.421863 5)
+    (at 88.428438 222.170778 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B5830)
@@ -3997,7 +3997,7 @@
   )
 
   (module keebs:Mx_Alps_100_R-5deg (layer F.Cu) (tedit 5B0BDD18) (tstamp 5B0C4AF4)
-    (at 88.125492 241.221789 5)
+    (at 88.428438 241.220778 5)
     (descr MXALPS)
     (tags MXALPS)
     (path /5B0ABEA4/5B0B583C)
